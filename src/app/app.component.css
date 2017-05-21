@@ -1,0 +1,12 @@
+.whiteText{
+  color: white;
+  border:1px solid pink;
+  border-radius: 5px;
+  display: inline-block;
+
+}
+.stand{ height:50px; margin-top:10px; }
+p{
+  background: green; width:auto; border-radius: 5px; display: inline-block; padding: 10px; margin:5px;
+  border: 2px;
+}
